@@ -49,7 +49,7 @@ The objective of this project is to leverage Tableau for real estate analytics, 
 ![Dashboard Overview](images/Dashboard.png)
 ![Calendar Filter](images/Calender.png)
 ![View vs. Condition Heatmap](images/ViewConditions.png)
-![Distribution of Bathrooms](images/Bathrooms.png)
+![Distribution of Bathrooms](https://github.com/briannameme17/KingCountyHouseSales/blob/main/Images/Bathrooms.png)
 ![Distribution of Bedrooms](images/Bedroom.png)
 ![Distribution of House Prices](images/HousePrices.png)
 ![Geographic Map](images/Map.png)
